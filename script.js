@@ -1,6 +1,6 @@
-let first=prompt("Enter first number")
+let first=prompt()
 let firstint=parseInt(first)
-let second=prompt("Enter second number")
+let second=prompt()
 let secondint=parseInt(second)
 let result=firstint*2+secondint
 

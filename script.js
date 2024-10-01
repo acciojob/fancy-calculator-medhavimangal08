@@ -6,4 +6,4 @@ let secondint=parseInt(second)
 let result=firstint*2+secondint
 
 
-alert("The final output is:" + result)
+alert("The final output is:"+" " + result)
